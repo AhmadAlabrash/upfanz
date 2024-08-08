@@ -24,7 +24,7 @@ class _MyHomePageState extends State<MyHomePage> {
   @override
   void initState() {
     super.initState();
-    _webViewController.init(context: context,setState: setState,uri: Uri.https('amazon.com'));
+    _webViewController.init(context: context,setState: setState,uri: Uri.https('upfanz.com'));
     
   }
 
